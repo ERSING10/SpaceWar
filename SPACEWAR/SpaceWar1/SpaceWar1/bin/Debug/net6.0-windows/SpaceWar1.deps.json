@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SpaceWar1/1.0.0": {
+        "runtime": {
+          "SpaceWar1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpaceWar1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
